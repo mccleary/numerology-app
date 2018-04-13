@@ -15,7 +15,7 @@ number = number.to_s
 number = number[0].to_i + number[1].to_i
 
 # 5. use an if statement to determine if the number is greater than 9; if it is, reduce again
-if number < 9
+if number > 9
   number = number[0].to_i + number[1].to_i
 end
 
