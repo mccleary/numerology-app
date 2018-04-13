@@ -21,6 +21,7 @@ Since 10 is a two-digit number and we want a single-digit number, add the number
 Your birth path number is 1!
 
 
+### Click here for [Demo](https://mccleary.github.io/numerology-app)
 
 ### Numerology Screenshot
 ![Numerology Image](img/numerology.jpeg)
