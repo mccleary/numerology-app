@@ -23,3 +23,6 @@ Your birth path number is 1!
 
 <!-- ### Numerology Screenshot -->
 ![Numerology Image](img/numerology.jpeg)
+
+<!-- ### Numerology Bash Screenshot -->
+![Numerology Bash](img/numerology-bash.png)
