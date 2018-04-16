@@ -2,7 +2,7 @@
 
 
 # 1. ask user for their birthdate - must be in MMDDYYY format
-puts "What is your birthdate? Please write it like this: MMDDYYYY"
+puts "What is your birthdate? Please write it in this format: MMDDYYYY"
 
 # 2. use gets method to get birthdate and assign it to a variable
 birthdate = gets
